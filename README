@@ -1,0 +1,25 @@
+Features specified in the handout that work
+1.Process Creation
+2.Execution
+3.File Redirection
+4.Pipes
+5.Background
+6.ctrl-c
+7.exit
+8.printenv
+9.setenv
+10.cd
+11.tilde expansion
+12.environ expansion
+13.wildcard
+14.zombie process
+15.special chars
+16.quotes, escape
+
+Features specified in the handout that do not work
+1.subshells
+2.history
+3.edit mode
+
+Extra features implemented
+NONE
